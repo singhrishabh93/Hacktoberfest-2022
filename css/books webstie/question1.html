@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sell Laptop</title>
+
+<style>
+input[type=radio] {
+    display:none; 
+}
+input[type=radio] + label {
+    display:inline-block;
+ width:100px;
+ padding:10px;
+ margin-left: 150px;
+ text-align: center;
+ border:1px solid darkolivegreen;
+ border-radius: 18px;
+ background-color: #a2a8d3;
+ margin-bottom:10px;
+ cursor:pointer;
+}
+input[type=radio] + label:hover{ border:1px solid #000000;}
+input[type=radio]:checked + label { 
+   background-image: none;
+   border-color:red;
+ color: yellow;
+ /*border:1px solid #0C0 !important;*/
+ -webkit-transition: all 0.2s ease-in-out;
+-moz-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+-ms-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+}
+
+.worngans{ border-color:red;color:yellow; border:1px solid red !important;-webkit-transition: all 0.2s ease-in-out;
+-moz-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+-ms-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;}
+
+.container{
+  max-width: 1270px;
+  width: 100%;
+  background-color: #fff;
+  padding: 25px 30px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+</style>
+
+<!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type='text/javascript'></script>
+<script type="text/javascript">
+ $(document).ready(function() {
+    $('label').click(function() {
+        $('label').removeClass('worngans');
+        $(this).addClass('worngans');
+    });
+});
+</script-->
+<link rel="apple-touch-icon" sizes="180x180" href="image/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="image/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="image/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+</head>
+
+<body style="background: linear-gradient(135deg, #71b7e6, #9b59b6);">
+   <h1 style="text-align: center;">Tell us a few things about your device!</h1>
+<div class="container">
+
+<div class="scp-quizzes-main">
+<div class="scp-quizzes-data" style="border: 1px solid blue; width: 450px; margin-left: 150px; height: 223px; margin-top: 20px; border-radius: 18px; background-color: #8ef6e4;">
+  <h3 style="text-align: center;">1. Does the Laptop Switch ON??</h3>
+    
+<br/>
+    <input type="radio" id="Fastlearning" name="question1">
+       <label for="Fastlearning">Yes</label><br/>
+    <input type="radio"  name="question1">
+       <label>No</label><br/>
+    
+ </div>
+ <span class="scp-quizzes-data" style="float: right; margin-top: -227px; margin-right: 150px; border: 1px solid blue; padding:10px; width: 450px; height: 206px; border-radius: 18px;background-color: #8ef6e4;">
+   <h3 style="text-align: center;">2. Are there any problems with your laptop screen?</h3>
+     
+ <br/>
+     <input type="radio" id="Fastlearning" name="question1">
+        <label for="Fastlearning">Yes</label><br/>
+     <input type="radio"  name="question1">
+        <label>No</label><br/>
+ </span>
+
+
+  <div class="scp-quizzes-data" style="float: right; margin-right: -470px; border: 1px solid blue; padding:10px; margin-top: 30px; width: 450px; height: 203px; border-radius: 18px; background-color: #8ef6e4;">
+   <h3 style="text-align: center;">4. Are there any defects on your laptop body?</h3>
+     
+ <br/>
+     <input type="radio" id="Fastlearning" name="question1">
+        <label for="Fastlearning">Yes</label><br/>
+     <input type="radio"  name="question1">
+        <label>No</label><br/>
+  </div>
+
+  <div class="scp-quizzes-data" style="border: 1px solid blue; width: 450px; margin-left: 150px; height: 223px; margin-top: 30px;border-radius: 18px; background-color: #8ef6e4;"> 
+
+   <h3 style="text-align: center;">3. Is your laptop under brand warranty?</h3>
+     
+ <br/>
+     <input type="radio" id="Fastlearning" name="question1">
+        <label for="Fastlearning">Yes</label><br/>
+     <input type="radio"  name="question1">
+        <label>No</label><br/>
+  </div><br>
+</div>
+<div>
+   <a href="address.html" style="width: 1000px; height: 30px; margin-left: 110px; border: 1px solid darkolivegreen; background-color: darkturquoise;color: black; padding-left: 483px; padding-right: 483px; padding-top: 10px; padding-bottom: 10px; text-align: center; border-radius: 18px; text-decoration: none; font-size: 20px;">Continue➜</a>
+</div>
+
+</body>
+</html>
