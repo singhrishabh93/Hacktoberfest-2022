@@ -171,12 +171,6 @@ $ git push -u origin BranchName
 Finally, go to your repository in the browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
-## Awesome contributors :star_struck:
-<a href="https://github.com/kishanrajput23/Hacktoberfest-2022/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=kishanrajput23/Hacktoberfest-2022" />
-</a>
-
-Made with [contributors-img](https://contributors-img.web.app).
 
 
 ## Help Contributing Guides :crown:
