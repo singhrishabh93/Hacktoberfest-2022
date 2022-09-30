@@ -11,166 +11,53 @@
 </div>
 
 
-### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
+### Welcome coders!! 
+### This is a beginner friendly repository which aims at helping anyone starting out with Open Source make their first contribution. :partying_face:
 
-:star: Feel free to use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+:star: Feel free to make amends and suggest enhancements to the repository and be a part of the initiative as a whole. Let's make Open Source accessible to all!!
 
-:star: Make sure to grab some cool swags during Hacktoberfest by getting involved in the open-source community.
+:star: Fun Fact: Hacktoberfest 2022 is here! 
+       Make to sure to report good issues, raise quality pr's and collect cool swags while contributing :shine: 
 
-### This repository is open to all members of the GitHub community. Any member can contribute to this project! :grin:
+### :excited_face: So before further-a-do let's begin!! 
 
-## What is Hacktoberfest? :thinking:
-A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
+## # What is Hacktoberfest? :thinking:
+You might have probably landed here because of Hacktoberfest2022. So let us have a go through.
 
-[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+Hacktoberfest is a month-long collaborative initiative managed and organized by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) in collaboration with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest). It extends from 1st October till 31st October.The initiative was taken into consideration to channelise the essence of [Open Source](https://github.com/open-source) contributions, and to get more developers on-board to build and develop exciting Open Source projects.
 
-## Rules :fire:
-To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2022 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 40,000__ participants who complete the challenge will earn a T-shirt.
+The process is easier than it seems!!
+All you need to do is to look for good first issues on GitHub and start contributing!!
 
-## Steps to follow :scroll:
+To know more about "How to contribute" check [this](https://github.com/singhrishabh93/Hacktoberfest-2022/blob/main/CONTRIBUTING.md) out!
 
-### Tip : Complete this process in GitHub (in your browser)
+:star: If you have more queries, you can definitely check out [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-```mermaid
-flowchart LR
-    Fork[Fork the project]-->branch[Create a New Branch]
-    branch-->Edit[Edit file]
-    Edit-->commit[Commit the changes]
-    commit -->|Finally|creatpr((Create a Pull Request))
-    
- ```
+## Process & Rules :fire:
 
-### 0. Star The Repo :star2:
+1. Register for Hacktoberfest2022 [here](https://hacktoberfest.digitalocean.com/) anytime in the month of October.
+2. Choose a repository of your interest and expertise.
+3. Make four or more pull requests / merge requests. First 40,000 participants will get to choose between two exclusive gifts.
+4. How will the contributions be counted? If your PR is merged by the maintainer of the repository under the label 
+ "hacktoberfest-accepted", then your contribution under the repository will be counted.
+5. What will be the gifts? The winners will be given two options. Either a plant will be planted in their
+name or an exclusive Hacktoberfest2022 t-shirt will be given to the participant.
 
-Star the repo by pressing the topmost-right button to start your wonderful journey.
+To know more about the "Code of conduct" of the program [click here.](https://github.com/singhrishabh93/Hacktoberfest-2022/blob/main/CODE_OF_CONDUCT.md)
 
-### 1. Fork it :fork_and_knife:
+<div align = center>
 
-You can get your own fork/copy of [HacktoberFest-2022](https://github.com/kishanrajput23/Hacktoberfest-2022) by using the <a href="https://github.com/kishanrajput23/Hacktoberfest-2022/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button.
+## FAQ's (Frequently asked Questions)
 
+~ Who can contribute?
+<br>
+Anyone with a GitHub Account plus a Hacktoberfest2022 Registration can contribute.
+<br>
 
-### 2. Clone it :busts_in_silhouette:
-
-`NOTE: commands are to be executed on Linux, Mac, and Windows(using Powershell)`
-
-You need to clone or (download) it to local machine using
-
-```sh
-$ git clone https://github.com/Your_Username/Hacktoberfest-2022.git
-```
-
-> This makes a local copy of the repository in your machine.
-
-Once you have cloned the `Hacktoberfest-2022` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
-
-```sh
-# This will change directory to a folder Hacktoberfest-2022
-$ cd Hacktoberfest-2022
-```
-
-Move to this folder for all other commands.
-
-### 3. Set it up :arrow_up:
-
-Run the following commands to see that *your local copy* has a reference to *your forked remote repository* in Github :octocat:
-
-```sh
-$ git remote -v
-origin  https://github.com/Your_Username/Hacktoberfest-2022.git (fetch)
-origin  https://github.com/Your_Username/Hacktoberfest-2022.git (push)
-```
-
-Now, let's add a reference to the original [Hacktoberfest-2022](https://github.com/kishanrajput23/Hacktoberfest-2022/) repository using
-
-```sh
-$ git remote add upstream https://github.com/kishanrajput23/Hacktoberfest-2022.git
-```
-
-> This adds a new remote named ***upstream***.
-
-See the changes using
-
-```sh
-$ git remote -v
-origin    https://github.com/Your_Username/Hacktoberfest-2022.git (fetch)
-origin    https://github.com/Your_Username/Hacktoberfest-2022.git (push)
-upstream  https://github.com/Remote_Username/Hacktoberfest-2022.git (fetch)
-upstream  https://github.com/Remote_Username/Hacktoberfest-2022.git (push)
-```
-`In your case, you will see`
-```sh
-$ git remote -V
-origin    https://github.com/Your_Username/Hacktoberfest-2022.git (fetch)
-origin    https://github.com/Your_Username/Hacktoberfest-2022.git (push)
-upstream  https://github.com/kishanrajput23/Hacktoberfest-2022.git (fetch)
-upstream  https://github.com/kishanrajput23/Hacktoberfest-2022.git (push)
-```
-
-### 4. Sync it :recycle:
-
-Always keep your local copy of the repository updated with the original repository.
-Before making any changes and/or in an appropriate interval, run the following commands *carefully* to update your local repository.
-
-```sh
-# Fetch all remote repositories and delete any deleted remote branches
-$ git fetch --all --prune
-
-# Switch to `main` branch
-$ git checkout main
-
-# Reset local `main` branch to match the `upstream` repository's `main` branch
-$ git reset --hard upstream/main
-
-# Push changes to your forked `Hacktoberfest-2021` repo
-$ git push origin main
-```
-
-### 5. Ready Steady Go... :turtle: :rabbit2:
-
-Once you have completed these steps, you are ready to start contributing by checking our `Good First Issue` Issues and creating [pull requests](https://github.com/kishanrajput23/Hacktoberfest-2022/pulls).
-
-### 6. Create a new branch :bangbang:
-
-Whenever you are going to contribute. Please create a separate branch using command and keep your `main` branch clean (i.e. synced with remote branch).
-
-```sh
-# It will create a new branch with name Branch_Name and switch to branch Folder_Name
-$ git checkout -b BranchName
-```
-
-Create a separate branch for contribution and try to use the same name of the branch as of folder.
-
-To switch to the desired branch
-
-```sh
-# To switch from one folder to other
-$ git checkout BranchName
-```
-
-To add the changes to the branch. Use
-
-```sh
-# To add all files to branch Folder_Name
-$ git add .
-```
-
-Type in a message relevant for the code reviewer using
-
-```sh
-# This message get associated with all files you have changed
-$ git commit -m 'relevant message'
-```
-
-Now, Push your awesome work to your remote repository using
-
-```sh
-# To push your work to your remote repository
-$ git push -u origin BranchName
-```
-
-Finally, go to your repository in the browser and click on `compare and pull requests`.
-Then add a title and description to your pull request that explains your precious effort.
-
+~ Are there any incentives?
+<br>
+Sadly there aren't any incentives but Open Source brings with itself plethora of career and networking opportunities worth any incentive.
+</div>
 
 
 ## Help Contributing Guides :crown:
