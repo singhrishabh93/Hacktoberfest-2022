@@ -1,25 +1,28 @@
-Contributing Guidelines
-Thank you for considering contributing to the repository. This guide details all the general information that one should know before contributing to the project. Please stick as close as possible to the guidelines. That way we ensure that you have a smooth experience contributing to this project.
+<div align="center">
 
-General Rules :
-These are in general rules that you should be following while contributing to an Open Source project :
+### Thankyou so much for considering contributing to this repository!!
+Here is a complete guide to get you started with your Open Source contribution.
 
-Be Nice, Be Respectful (BNBR)
-Check if the Issue you created, exists or not.
-While creating a new issue make sure you describe the issue clearly.
-Make proper commit messages and document your PR well.
-Always add Comments in your Code and explain it at points, if possible add Doctest.
-Always create a Pull Request from a Branch; Never from the Main.
-Follow proper code conventions because writing clean code is important
+</div>
+
+## Steps to follow :scroll:
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository you want to work on.
+2. The next step is to [Clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#step-2-create-a-local-clone-of-your-fork) the repository onto your local system.
+3. Make the desired changes.
+4. [Add and Commit](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) the changes.
+5. [Push]() all changes to your forked version on GitHub/GitLab.
+6. GitHub/GitLab tracks your push records and now its time for you to [Create a Pull request.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 
+## Tutorials (for better understanding):-
+1. How to contribute to Open Source by [freeCodeCamp.](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects/)
+2. YouTube Video by EddieJaoude, precisely covering all concepts in depth --> [click here.](https://www.youtube.com/watch?v=yzeVMecydCE)
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+#### If you wish to learn learn and practice more about creating pull requests checkout EddieHubCommunity's [hacktoberfest-practice.](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+<div align="center">
+
+### :tada: **Happy Contributing** :tada:
+
+</div>
