@@ -1,70 +1,60 @@
 # Contributor Covenant Code of Conduct
 
-## Our Pledge
+## Our Promise
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+Regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, 
+gender identity and expression, level of experience, education, socioeconomic status, nationality, 
+personal appearance, race, religion, or sexual orientation, we as members, contributors, and leaders 
+commit to making participation in our community a harassment-free experience for everyone.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+We promise to behave and engage in ways that support a welcome, inclusive, diverse, and healthy community.
 
-## Our Standards
+## Our Principles
+Examples of conduct that helps our community have a positive atmosphere include:
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+* Displaying compassion and kindness for others.
+* Respecting the ideas, perspectives, and experiences of others.
+* Delivering and accepting criticism with grace.
+* Assuming responsibility, expressing regret to those impacted by our errors, and taking lessons from the encounter.
+* Concentrating on what is best for the entire community, not just for ourselves as individuals.
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+Unacceptable conduct examples include:
 
-Examples of unacceptable behavior include:
+* Using sexualized language or imagery, and/or engaging in sexual
+improvements of any type
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Trolls, offensive or disparaging remarks, and political or personal assaults
 
-## Enforcement Responsibilities
+* Harassment in public or privately
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+* Making public someone else's private information, such their address or email
+address without their express consent
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+* Additional actions that might be judged unsuitable in a
+professional environment
+
+## Enforcement Obligations
+
+Community leaders are in charge of outlining and upholding our standards of acceptable conduct,
+and they will respond to any behaviour that they find improper, threatening, disrespectful, or
+harmful by taking reasonable corrective action.
+
+Community leaders have the authority and duty to delete, alter, or reject comments, commits,
+codes, wiki edits, issues, and other contributions that do not adhere to this Code of Conduct.
+When necessary, they will also provide justifications for their actions.
 
 ## Scope
-
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+This Code of Conduct is applicable in all public areas where the community is represented by 
+an official representative, as well as in all other community places. Using a company-issued
+email address, publishing on a company-issued social media account, or serving as a designated
+representative at an offline or online event are examples of representing our community.
 
 ## Enforcement
+Reporting instances of abusive, harassing, or other undesirable behaviour can be done by sending an
+email to dmkrishna.agarwal@gmail.com, which will be forwarded to the community leaders in charge 
+of enforcement. All complaints will be analysed and thoroughly looked into without delay.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-dmkrishna.agarwal@gmail.com.
-All complaints will be reviewed and investigated promptly and fairly.
-
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+The protection and privacy of the reporter of any incident must be respected by all local officials.
 
 ## Enforcement Guidelines
 
@@ -85,23 +75,20 @@ behavior was inappropriate. A public apology may be requested.
 **Community Impact**: A violation through a single incident or series
 of actions.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+**Consequence**: A warning with repercussions for persistent behaviour No contact with those 
+implicated for a predetermined amount of time, including uninvited contact with personnel implementing 
+the Code of Conduct. Avoiding interactions on social media and other external platforms is part of this.
+A ban could be either temporary or permanent if certain conditions are broken.
 
 ### 3. Temporary Ban
 
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Consequence**: A temporary prohibition on all interactions including public discourse 
+for a predetermined amount of time. During this time, there may be no direct or indirect contact
+with the parties, including uninvited contact with personnel implementing the Code of Conduct.
+These conditions may be broken and result in a lifetime ban.
 
 ### 4. Permanent Ban
 
