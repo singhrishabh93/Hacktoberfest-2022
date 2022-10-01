@@ -136,6 +136,10 @@ body{
 #title{
     font-size: 2rem;
     background: white;
+        border: 2px solid rgb(126, 202, 228);
+        border-radius: 12px;
+        padding: 5px;
+        background: #E6E6FA;
 }
 .card{
     display: grid;
@@ -170,7 +174,7 @@ body{
     text-align: center;
 }
 #item-name{
-    text-align: left;
+    text-align: center;
     color: lightseagreen;
     margin-top: 1rem;
     font-size: 0.95rem;
