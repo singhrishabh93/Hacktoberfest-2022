@@ -19,15 +19,22 @@
 
 ### This repository is open to all members of the GitHub community. Any member can contribute to this project! The only thing which you need to keep in mind is that it should be genuine PR :grin:
 
-## What is Hacktoberfest? :thinking:
+ ## 📝 Table of Contents
+- [What is Hacktoberfest](#what_is_hacktoberfest)
+- [Rules](#rules)
+- [How to Start](#how_to_start)
+- [Guide](#guide)
+
+
+## What is Hacktoberfest? :thinking: <a name = "what_is_hacktoberfest"></a>
 A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-## Rules :fire:
+## Rules :fire: <a name = "rules"></a>
 To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2022 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 40,000__ participants who complete the challenge will earn a T-shirt.
 
-## Steps to follow :scroll:
+## Steps to follow :scroll:  <a name = "how_to_start"></a>
 
 ### Tip: Complete this process in GitHub (in your browser)
 
@@ -173,7 +180,7 @@ Then add a title and description to your pull request that explains your preciou
 
 
 
-## Help Contributing Guides :crown:
+## Help Contributing Guides :crown:  <a name = "guide"></a>
 
 We love to have `articles` and `codes` in different languages and the `betterment` of existing ones.
 
