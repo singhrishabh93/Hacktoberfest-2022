@@ -39,7 +39,13 @@
 					<h4 class="product-offer" style="font-size: 25px;">Offer Price</h4>
 					<h4 class="product-price" style="font-size: 30px;">₹ 7,999</h4>
 
-					<p class="product-quantity" style="margin-left: 20px;">Qty: <input value="1" name="">
+					<p class="product-quantity" style="margin-left: 20px;">Qty 
+						<form>
+							<div class="value-button" id="decrease" onclick="decreaseValue()" value="Decrease Value">-</div>
+							<input type="number" id="number" value="0" />
+							<div class="value-button" id="increase" onclick="increaseValue()" value="Increase Value">+</div>
+						  </form>
+					</p>
 
 					<p class="product-remove">
 
@@ -93,6 +99,20 @@
 
 </body>
 
-
+<script>
+	function increaseValue() {
+	var value = parseInt(document.getElementById('number').value, 10);
+	value = isNaN(value) ? 0 : value;
+	value++;
+	document.getElementById('number').value = value;
+  }
+  
+  function decreaseValue() {
+	var value = parseInt(document.getElementById('number').value, 10);
+	value = isNaN(value) ? 0 : value;
+	value < 1 ? value = 1 : '';
+	value--;
+	document.getElementById('number').value = value;
+  }</script>
 </html>
 
