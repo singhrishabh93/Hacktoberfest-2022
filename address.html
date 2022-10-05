@@ -11,6 +11,26 @@
     <link rel="icon" type="image/png" sizes="16x16" href="image/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
    </head>
+
+   <style>
+    .button > a{
+      color:rgb(157, 224, 255);
+      text-decoration: none;
+      padding: auto;
+    }
+    .button{
+      background-color: #9764BC;
+      width: 12em;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 12px;
+      transition: 0.2s all ease-out;
+    }
+    .button:hover{
+      background-color: #8D76C5;
+    }
+   </style>
 <body>
   <div class="container">
     <div class="title" style="text-align: center;">Add your Complete Address & select Time-Slot</div>
@@ -63,7 +83,7 @@
           </div>
         </div>
         <div class="button">
-          <a href="askpayment.html" class="button">Submit & Confirm</a>
+          <a href="askpayment.html" id="submitBtn">Confirm & Submit</a>
         </div>
       </form>
     </div>
