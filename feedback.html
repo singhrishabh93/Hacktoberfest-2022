@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="feedback.css">
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="wrapper">
+            <div class="header">
+                <h1 class="heading">Customer Feedback Form </h1>
+                <p class="ty">
+                    Thank you for taking time to provide feedback. We appreciate hearing from you and will review your
+                    comments carefully</p>
+            </div>
+
+      <hr>
+
+
+        </div>
+        <form>
+
+            <label for="product" class="productLabel">Which product would you like to review :</label>
+            <select class="custom-select" name="product">
+                <option value="Laptops">Laptop</option>
+                <option value="Phones">Mobile phone</option>
+                <option value="Wacthes">Wacth</option>
+                <option value="Tablets">Tablets</option>
+                <option value="Speakers">Speakers</option>
+            </select>
+            <div class="id">Enter the product ID:
+                <input type="text">
+            </div>
+            <div class="reviewContent">
+                <div class="ratingType">
+                    <p class="contentHeading">1.) Quality :</p>
+                    <div class="rating rating2">
+                        <!--
+                    --><a href="#5" title="Give 5 stars">★</a>
+                        <!--
+                    --><a href="#4" title="Give 4 stars">★</a>
+                        <!--
+                    --><a href="#3" title="Give 3 stars">★</a>
+                        <!--
+                    --><a href="#2" title="Give 2 stars">★</a>
+                        <!--
+                    --><a href="#1" title="Give 1 star">★</a>
+
+                    </div>
+
+                </div>
+
+                <div class="ratingType">
+                    <p class="contentHeading">2.) Price :</p>
+                    <div class="rating rating2">
+                        <!--
+                    --><a href="#5" title="Give 5 stars">★</a>
+                        <!--
+                    --><a href="#4" title="Give 4 stars">★</a>
+                        <!--
+                    --><a href="#3" title="Give 3 stars">★</a>
+                        <!--
+                    --><a href="#2" title="Give 2 stars">★</a>
+                        <!--
+                    --><a href="#1" title="Give 1 star">★</a>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+
+            <div class="text">How would you rate us overall?</div>
+            <div class="emoji">
+                <div>&#128525</div>
+                <div> &#128516</div>
+                <div> &#128578</div>
+                <div> &#128528</div>
+                <div> &#128547</div>
+
+
+
+            </div>
+
+            <textarea class="textArea" cols="30" rows="4" placeholder="Write your feedback"></textarea>
+
+            <div><button class="button" type="button">Submit Feedback</button></div>
+        </form>
+    </div>
+    <script src="feedback.js"></script>
+</body>
+
+</html>

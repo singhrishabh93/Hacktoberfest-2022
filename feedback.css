@@ -1,0 +1,188 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+.container{
+    padding: 20px;
+    background-color: #7c73e6;
+  border-radius:13px;
+  overflow: hidden;
+  position: relative;
+  width:40%
+}
+.heading{
+    text-align: center;
+    margin-bottom: 10px;
+    
+    color: white;
+   
+}
+.ty{
+    margin: 10px;
+    font-size: smaller;
+    
+}
+
+.text{
+    text-align: left;
+    margin: 10px;
+    
+    color: white;
+}
+.emoji{
+    font-size: medium;
+    display: flex;
+    justify-content: space-evenly   ;
+    /* margin: 20px; */
+    background-color: silver;
+    padding: 10px;
+    border-radius: 13px;
+}
+.emoji > div:not(:first-child){
+    margin-left: 0.3em;
+}
+.emoji > div{
+    cursor: pointer;
+    transition: scale(1.3) 0.2s ease-in-out;
+}
+
+.emoji > div:hover{
+    transform:  scale(1.3);
+}
+
+.textArea{
+    width: 100%;
+    display: block;
+    margin-right: 20px;
+    margin-top: 10px;
+    border: none;
+    transition: all 1.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+    resize: none;
+    opacity: 0;
+    outline: none;
+    height: 0;
+    border-radius: 15px;
+    
+}
+
+.textArea--active{
+    padding:1rem;
+    opacity: 1;
+    height: 6rem;
+}
+
+.wrapper{
+    margin: 2rem , 0;
+}
+label{
+    color: white;
+    margin-top: 10px;
+}
+.id{
+    color: white;
+}
+.productLabel{
+    width: 100%;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+
+.rating {
+    max-width: 120px;
+    /* margin: auto; */
+    /* margin: 0 auto 1em; */
+    font-size: 20px;
+    overflow:hidden;
+}
+
+.rating a,
+.rating label {
+    float:right;
+    color: #aaa;
+    text-decoration: none;
+    -webkit-transition: color .4s;
+    -moz-transition: color .4s;
+    -o-transition: color .4s;
+    transition: color .4s;
+}
+.rating label:hover ~ label,
+.rating input:focus ~ label,
+.rating label:hover,
+.rating a:hover,
+.rating a:hover ~ a,
+.rating a:focus,
+.rating a:focus ~ a		{
+    color: orange;
+    cursor: pointer;
+}
+.rating2 {
+    /* direction: rtl; */
+}
+.rating2 a {
+    float:none
+}
+
+.reviewContent{
+    margin: 30px;
+    display: flex;
+    width: 100%;
+}
+.contentHeading{
+    color: white;
+    font-size: large;
+    padding-top: 3px;
+    margin: 1.5px;
+}
+select{
+  padding: 8px;
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.ratingType{
+    margin-right: 10%;
+    display: flex;
+}
+
+.button {
+    padding: 10px 15px;
+    font-size: 13px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px #999;
+    margin: 15px;
+  }
+  
+  .button:hover {background-color: #3e8e41}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  input{
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+  }
