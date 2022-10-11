@@ -83,6 +83,9 @@ Run the following commands to see that *your local copy* has a reference to *you
 
 ```sh
 $ git remote -v
+```
+Output:
+```
 origin  https://github.com/Your_Username/Hacktoberfest-2022.git (fetch)
 origin  https://github.com/Your_Username/Hacktoberfest-2022.git (push)
 ```
